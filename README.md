@@ -39,7 +39,15 @@ cd landing-page-1
 ```
 
 
-## 📜 License
-Feel free to use, modify, and share this code. Attribution is appreciated but not required.
+## License
 
-Made by [Rayirth](mailto:pulakandla.rayirthreddy@gmail.com)
+This project is licensed under a **Custom No-Commercial-Use License**.  
+You are free to **use, modify, and share** this project for **personal or educational purposes**.
+
+However:
+- 🚫 **Commercial use**, **resale**, or **redistribution for profit** is **strictly prohibited**.  
+- 🙌 **Attribution** to the original author is **appreciated but not required**.
+
+📜 **Full License:** [View LICENSE](./LICENSE)
+
+Made with ❤️ by [Rayirth](mailto:pulakandla.rayirthreddy@gmail.com)
